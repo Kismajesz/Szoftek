@@ -1,0 +1,113 @@
+XY Autókereskedés
+
+Szolgáltatások:
+
+Autóeladás
+Autóbeszámítás
+Autófelvásárlás
+Átírás teljes ügyintézése
+Eredetiségvizsgálat
+Biztosítás kötés
+
+Story:
+
+XY Autókereskedés megszokott kereskedésektől távol áll. Cégünk 2012-ben alakult, munkatársaink tapasztalata 
+messzemenőleg elismert és alátámasztott.Az elmúlt majdnem 10 év során folyamatosan fejlesztettük, 
+bővítettük gépjármű parkunkat és kiszolgáló létesítményünket. Ügyfeleinket modern parkoló, majd a járműpark fogadja,
+amelyet sikeresen bővítettünk 2018-ban.A cél az ügyfelek előtérbe helyezése, és az autóvásárlást/eladást
+nem nyűggé, hanem kényelmessé tétele jelenti.Gépjármű parkunk főleg újszerű, keveset futott, sérülésmentes 
+és ellenőrizhető múltú gépjárműveket forgalmazunk.Magánszemélyeknek és cégeknek egyaránt.
+
+2018-2021 adatok:
+ELADOTT AUTÓK
+ 6500
+MEGELÉGEDETT ÜGYFÉL
+ 6500
+HITELÜGYINTÉZÉS
+ 789
+AUTÓVÁSÁRLÁS
+ 4500
+
+Szolgáltatások:
+
+Autóértékesítés magánszemélyként:
+	-Magánszemélyként, sok sok óra telefonálgatás
+	-Ön találkozik a vevőkkel
+	-próbakörök engedélyezése/vagy nem
+	-Vevő alkudhat is
+Autóértékesítés az XY autókereskedésnél:
+	-Elhozza az autóját
+	-Mi átnézzük, befotózzuk az autót
+	-20 perces dokumentálás után átvesszük öntől az autót
+Hiteles autók megvásárlása:
+	Nem akadály ha hitellel, terhelt autója!
+	Cégünk kapcsolatban áll a legtöbb hitelintézettel, így az autó hitelének lezárása sokkal gördülékenyebb.
+
+Autóvétel magánszemélyként:
+	-Sok elvesztegetett idő keresgéléssel
+	-Valótlan árak
+	-Sokszor megbízhatatlan eladók
+	-Papírmunkával való akár 1 hónapos eltöltött idő
+Autóvétel az XY autókereskedésnél:
+	-Választékunk nagy, és személyre szabott
+	-Áraink valósak, és hitelesek
+	-Járműveink nem csak a képeken remekelnek, hanem a való életben is
+	-Járműveinkre garanciát vállalunk 6 hónapos teljes árú visszafizetéssel amennyiben Kézpénzzel fizetett.
+	-Hitel, a jármű árának 30%-ának kifizetése után történik amit mi dokumentálunk
+	-Eredetvizsga, átírás benne van az árban amit szintén mi intézünk egy-két napos idővel.
+Eredetiségvizsgálat:
+Minden tulajdonosváltáskor kötelező a gépjármű eredetének, valódiságának, egyedi azonosítók gyári mivoltának ellenőrzése, körözési státuszának lekérdezése.
+A vizsgálat 30-40 percet vesz igénybe, mely során az alábbiakat dokumentáljuk, vizsgáljuk:
+
+Km óra fotózás
+egyedi azonosítók fotózása
+festék vastagság mérés
+speciális eszközökkel való vizsgálat a manipuláció felderítésére.
+
+Szerepkörök:
+
+autókereskedés vezetője
+-átlátja, hogy mennyi a költség és bevétel
+-dolgozók problémáit, ötleteit meghallgatja 
+-ha a munka elakad, ő keres megoldást a problémára
+-megfelelő munkakörülmény biztosítása
+
+gépjármű és alkatrész beszerző
+-alkatrészek és gépjárművek költségvetésen belüli megszerzése
+-megvett alkatrészek és gépjárművek listázása(pl: x alkatrész y forintért), szállítása
+
+eredetvizsga/járműátírása
+-autó befényképezése, és felmérése
+-papírok elkészítése
+-dokumentumok készítése az átíráshoz
+
+gépjármű és alkatrész értékesítő
+-részletes leírást tud adni a meglévő gépjárművekről
+-a vásárlók igénye szerint tud ajánlani megfelelő választást
+-alkatrészek és gépjárművek - átadási dokumentációk kezelése
+-használt gépjárművek beszámítása
+-ügyfél-elégedettség mérése
+
+hirdetések kezelője
+-weboldal létrehozása/beszerzése
+-weboldal frissítése az új gépjárművekről alkatrészekről
+-facebookon, csoportokban hírdetések
+-bolt környékén plakátok elhelyezése
+-szórólapok osztása
+
+
+Lehetséges osztályok:
+
+AutoUgyintezes()
+Műveletek:
+-Atiras()
+-Eredetvizsga()
+-Biztositas()
+
+AutoVasarlas()
+Műveletek:
+-AutoAdatok()
+
+AutoEladas()
+Műveletek:
+-AutoAdatok()
