@@ -9,7 +9,7 @@ Autófelvásárlás
 Eredetiségvizsgálat
 Biztosítás kötés
 
-Story:
+Történet:
 
 XY Autókereskedés megszokott kereskedésektől távol áll. Cégünk 2012-ben alakult, munkatársaink tapasztalata 
 messzemenőleg elismert és alátámasztott.Az elmúlt majdnem 10 év során folyamatosan fejlesztettük, 
@@ -17,16 +17,6 @@ bővítettük gépjármű parkunkat és kiszolgáló létesítményünket. Ügyf
 amelyet sikeresen bővítettünk 2018-ban.A cél az ügyfelek előtérbe helyezése, és az autóvásárlást/eladást
 nem nyűggé, hanem kényelmessé tétele jelenti.Gépjármű parkunk főleg újszerű, keveset futott, sérülésmentes 
 és ellenőrizhető múltú gépjárműveket forgalmazunk.Magánszemélyeknek és cégeknek egyaránt.
-
-2018-2021 adatok:
-ELADOTT AUTÓK
- 6500
-MEGELÉGEDETT ÜGYFÉL
- 6500
-HITELÜGYINTÉZÉS
- 789
-AUTÓVÁSÁRLÁS
- 4500
 
 Szolgáltatások:
 
@@ -58,35 +48,40 @@ Autóvétel az XY autókereskedésnél:
 Eredetiségvizsgálat:
 Minden tulajdonosváltáskor kötelező a gépjármű eredetének, valódiságának, egyedi azonosítók gyári mivoltának ellenőrzése, körözési státuszának lekérdezése.
 A vizsgálat 30-40 percet vesz igénybe, mely során az alábbiakat dokumentáljuk, vizsgáljuk:
-
 Km óra fotózás
 egyedi azonosítók fotózása
 festék vastagság mérés
 speciális eszközökkel való vizsgálat a manipuláció felderítésére.
 
-Szerepkörök:
+Aktorok: 
 
 autókereskedés vezetője
 -átlátja, hogy mennyi a költség és bevétel
--dolgozók problémáit, ötleteit meghallgatja 
--ha a munka elakad, ő keres megoldást a problémára
 -megfelelő munkakörülmény biztosítása
 
-gépjármű és alkatrész beszerző
--alkatrészek és gépjárművek költségvetésen belüli megszerzése
--megvett alkatrészek és gépjárművek listázása(pl: x alkatrész y forintért), szállítása
+manager
+-dolgozók problémáit, ötleteit meghallgatja 
+-ha a munka elakad, ő keres megoldást a problémára
+-ügyfél-elégedettség mérése
 
-eredetvizsga/járműátírása
+rendszergazda
+
+-adatbázis kezelése
+
+gépjármű beszerző 
+-gépjárművek költségvetésen belüli megszerzése
+-megvett gépjárművek listázása(pl: x autó y forintért), szállítása
+
+gépjármű  értékesítő
+-részletes leírást tud adni a meglévő gépjárművekről
+-a vásárlók igénye szerint tud ajánlani megfelelő választást
+-átadási dokumentumok kezelése
+-használt gépjárművek beszámítása
+
+eredetvizsga/járműátírás lebonyolító
 -autó befényképezése, és felmérése
 -papírok elkészítése
 -dokumentumok készítése az átíráshoz
-
-gépjármű és alkatrész értékesítő
--részletes leírást tud adni a meglévő gépjárművekről
--a vásárlók igénye szerint tud ajánlani megfelelő választást
--alkatrészek és gépjárművek - átadási dokumentációk kezelése
--használt gépjárművek beszámítása
--ügyfél-elégedettség mérése
 
 hirdetések kezelője
 -weboldal létrehozása/beszerzése
@@ -94,6 +89,12 @@ hirdetések kezelője
 -facebookon, csoportokban hírdetések
 -bolt környékén plakátok elhelyezése
 -szórólapok osztása
+
+Vásárló
+-Autók megtekintése(weben, vagy személyesen)
+-Autók megvétele
+-Autó eladása a kereskedésnek
+
 
 
 Lehetséges osztályok:
